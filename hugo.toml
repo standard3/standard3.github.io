@@ -1,6 +1,6 @@
 title = "standard3"
 languageCode = "en-us"
-baseurl = "https://standard3.github.io"
+baseurl = "https://blog.theoabel.com"
 paginate = 20
 canonifyurls = true
 
@@ -14,7 +14,7 @@ canonifyurls = true
   favicon = "/images/favicon.ico"
   showBreadCrumbs = true
   toc = true
-  copyrightUserUrl = "https://standard3.github.io"
+  copyrightUserUrl = "https://blog.theoabel.com"
   copyrightUserText = ""
   author = "Théo Abel"
 
