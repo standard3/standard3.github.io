@@ -1,0 +1,53 @@
+/* Fonts */
+$font-family-title: "Roboto Slab", "Times New Roman", garamond, serif;
+$font-family-normal: "Fira Sans", arial, helvetica, sans-serif;
+$font-family-mono: "Ubuntu Mono", monaco, consolas, monospace;
+
+/* Font weights */
+$font-light: 300;
+$font-normal: 400;
+$font-bold: 500;
+
+/* Font sizes */
+$font-size: 1rem;
+$font-size-smaller: $font-size - 0.125;
+$font-size-larger: $font-size + 0.125;
+
+/* Layouts */
+$container-max-width: 864px;
+
+/* Spacers */
+$spacer-1: 1px;
+$spacer-2: $spacer-1 * 2;
+$spacer-smallest: $spacer-2 * 2;
+$spacer-small: $spacer-smallest * 2;
+$spacer-normal: $spacer-small * 2;
+$spacer-large: $spacer-small * 3;
+$spacer-large2: $spacer-small * 4;
+$spacer-largest: $spacer-small * 6;
+
+/* Colors */
+$darkblue: #1E1E2E;
+$darkyellow: #eac509;
+$lightyellow: #fbe992;
+
+/* Light theme colors */
+$accent--light: #010101;
+$background--light: #fcf8ef;
+$text--light: $darkblue;
+$text-links--light: #f5c000;
+
+/* Dark theme colors */
+$accent--dark: $darkyellow;
+$background--dark: $darkblue;
+$text--dark: #eaeaea;
+$text-links--dark: $lightyellow;
+
+/* Media queries */
+$phone: "max-width: 684px";
+$tablet: "max-width: 900px";
+
+:root {
+  --phone: (#{$phone});
+  --tablet: (#{$tablet});
+}
