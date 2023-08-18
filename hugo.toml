@@ -19,10 +19,10 @@ canonifyurls = true
   author = "Théo Abel"
 
 [params.site_verification]
-  google = "dRxlQUCTcreupAiAU9R-WcImzIL5ZkXVFT4PVPDJl6Y"
-  bing = "F82FFC97299503C8B6340178FE5F1EFA"
-  yandex = "146d77656fc95385"
-  naver = "e3b93136c43487a12e31584cf30306a269137968"
+  google = "ao3SYPHyRHw39aHqR2tFRLmVadJ4QSU8393r2Y9TrFw"
+  bing = ""
+  yandex = ""
+  naver = ""
 
 [languages]
   [languages.en.params]
